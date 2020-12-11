@@ -473,7 +473,7 @@ h2 {
     width: auto !important; }
   .recent .bottom-text {
     position: absolute;
-    bottom: 30px; }
+    bottom: 0px; }
   @media (max-width: 767px) {
     .recent {
       margin-top: 100px; } }
